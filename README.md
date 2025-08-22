@@ -22,3 +22,6 @@ This project is a web application that provides an automated, structured evaluat
 * **Pydantic:** Used to enforce a strict data schema for the AI's output, ensuring consistency and reliability.
 * **Python:** The primary programming language for the entire project.
 
+## 📸 App Screenshot
+
+![Streamlit App Screenshot](./EssayEvaluator.png)
